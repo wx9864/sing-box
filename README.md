@@ -43,6 +43,7 @@
 # 文档
 
 安装及使用：https://233boy.com/sing-box/sing-box-script/
+安装命令：wget https://github.com/wx9864/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l
 
 # 帮助
 
